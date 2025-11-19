@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <!-- 🔹 Esta línea hace que el contenido se adapte al tamaño de la pantalla -->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Análisis FODA</title>
+</head>
+
+<body>
+
+  <!-- Título principal -->
+  <h1>Análisis FODA</h1>
+
+  <!-- ¿Qué es? -->
+  <h2>¿Qué es?</h2>
+  <p>
+    Un <strong>Análisis FODA</strong> es una herramienta que permite comprender la situación de un proyecto,
+    empresa, persona o institución, analizando sus características internas 
+    (<em>Fortalezas</em> y <em>Debilidades</em>) y externas 
+    (<em>Oportunidades</em> y <em>Amenazas</em>).
+  </p>
+
+  <p>
+    Proviene de las siglas en inglés <strong>SWOT</strong> 
+    (<em>Strengths</em>, <em>Weaknesses</em>, <em>Opportunities</em> y <em>Threats</em>).
+  </p>
+
+  <p>
+    Resulta fundamental para una correcta toma de decisiones.
+    Esta técnica no sólo se utiliza para medir el desempeño con respecto a la competencia, 
+    sino que es una importante herramienta en la gestión de proyectos, 
+    ya que ayuda a detectar y analizar de manera sistemática todas las variables que intervienen en un negocio.
+  </p>
+
+  <p>
+    El FODA es una herramienta simple, clara y práctica que facilita la toma de decisiones: 
+    contribuye a identificar los obstáculos para cumplir con los objetivos y de esta manera mejorar y 
+    modificar el plan de acción.
+  </p>
+
+  <!-- ¿Qué significa? -->
+  <h2>¿Qué significa?</h2>
+  <ul>
+    <li><strong>F</strong>: Fortalezas</li>
+    <li><strong>O</strong>: Oportunidades</li>
+    <li><strong>D</strong>: Debilidades</li>
+    <li><strong>A</strong>: Amenazas</li>
+  </ul>
+
+  <!-- Objetivo -->
+  <h2>¿Cuál es su objetivo?</h2>
+  <p>
+    El objetivo del Análisis FODA es determinar las ventajas y desventajas de un proyecto, 
+    empresa, persona o institución, en función de sus características propias y de las del entorno en que se mueve, 
+    y de esta manera poder planificar en lugar de improvisar la toma de decisiones.
+  </p>
+
+  <!-- Partes que componen -->
+  <h2>Partes que componen un Análisis FODA</h2>
+
+  <h3>Características internas</h3>
+  <ul>
+    <li>
+      <strong>Fortalezas:</strong> Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+      Quidem inventore aut labore velit facere impedit modi illum molestias corporis maxime!
+    </li>
+    <li>
+      <strong>Debilidades:</strong> Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+      Cum iste reiciendis eligendi, odio doloremque, commodi modi eveniet nostrum.
+    </li>
+  </ul>
+
+  <h3>Características externas</h3>
+  <ul>
+    <li>
+      <strong>Oportunidades:</strong> Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+      Deserunt aliquid expedita animi culpa possimus eos, nulla qui, libero nemo ducimus ex!
+    </li>
+    <li>
+      <strong>Amenazas:</strong> Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+      Hic minus nemo corrupti blanditiis culpa fuga vitae ab quod repellendus suscipit.
+    </li>
+  </ul>
+
+</body>
+</html>

@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../pages"
+		},
+		{
+			"path": "../styles"
+		},
+		{
+			"path": "../talleres"
+		},
+		{
+			"path": "../assets"
+		}
+	]
+}
